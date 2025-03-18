@@ -7,7 +7,7 @@ NAME : YASHWANTH K
 REG NO : 212224040369
 
 ## AIM:
-To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
+To develop a simple webserver to serve html pages and to display welcome to my website.
 
 ## DESIGN STEPS:
 ### Step 1: 
